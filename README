@@ -19,8 +19,9 @@ Before running the project, ensure you have the following installed:
 
 - **Anomaly_Detection_Code.ipynb**: The main Jupyter notebook where the anomaly detection models are trained, evaluated, and tested.
 - **requirements.txt**: List of Python packages required for the project.
-- **README**\ 
+- **README** 
 - **Dataset.xlsx/**: The dataset used in this project.
+
 
 
 
