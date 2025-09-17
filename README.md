@@ -1,0 +1,23 @@
+## Anomaly Detection System
+
+## Overview
+
+This repository contains an implementation of an **Anomaly Detection System** using advanced machine learning techniques. The project focuses on detecting anomalies in time-series data, with a particular emphasis on handling sequential data and identifying outliers in a variety of contexts. The system is designed to be easily extendable for different use cases and datasets.
+
+## Features
+
+- **Anomaly Detection**: The core of the project is an anomaly detection system that can detect abnormal patterns in time-series data.
+- **Deep Learning Models**: Utilizes deep learning techniques, including LSTM Autoencoders, for detecting anomalies.
+- **Customizable Pipelines**: The project includes pre-built pipelines for training and evaluating anomaly detection models with options to adjust hyperparameters.
+
+## Prerequisites
+
+Before running the project, ensure you have the following installed:
+
+- Python 3.x
+- Required libraries (listed in `requirements.txt`)
+
+- **Anomaly_Detection_Code.ipynb**: The main Jupyter notebook where the anomaly detection models are trained, evaluated, and tested.
+- **requirements.txt**: List of Python packages required for the project.
+- **README** 
+- **Dataset.xlsx/**: The dataset used in this project.
